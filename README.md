@@ -1,4 +1,5 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard 
+## Using Power Bi
 
 This project features an interactive dashboard built to explore and visualize key HR metrics, including employee attrition trends, department-wise performance, compensation breakdowns, and work-life balance insights.
 
