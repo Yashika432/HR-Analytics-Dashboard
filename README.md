@@ -1,2 +1,29 @@
 # HR-Analytics-Dashboard
-Developed a comprehensive project in Power Bi, creating multiple dashboards and visuals to analyze the data. This process  involved  several stages, including data preprocessing, data cleaning, and data visualization. 
+
+This project features an interactive dashboard built to explore and visualize key HR metrics, including employee attrition trends, department-wise performance, compensation breakdowns, and work-life balance insights.
+
+The dashboard empowers HR teams to:
+- Identify factors influencing employee attrition
+- Monitor department-specific retention and satisfaction levels
+- Compare job roles in terms of salary, tenure, and promotion trends
+- Improve strategic decision-making based on data-driven insights
+
+# Datasets Used
+
+- <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_1.xlsx">HR_1</a>
+- <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_2.xlsx">HR_2</a>
+
+# Dashboard Highlights:
+
+- Attrition rate by department and job role
+- Gender and compensation comparisons
+- Work-life balance distribution
+- Promotion timelines vs attrition correlation
+
+# Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean, with respect to data type, data format and values used.
+- Created pivot table according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- 
