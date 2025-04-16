@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard 
-## Using Power Bi
 
+This project is part of my internship as a Data Analyst, where I created an interactive HR analytics dashboard using Power BI.
+
+# 📊 Overview:
 This project features an interactive dashboard built to explore and visualize key HR metrics, including employee attrition trends, department-wise performance, compensation breakdowns, and work-life balance insights.
 
 The dashboard empowers HR teams to:
