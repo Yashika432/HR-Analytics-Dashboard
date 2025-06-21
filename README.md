@@ -16,7 +16,7 @@ The dashboard empowers HR teams to:
 - <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_1.xlsx">HR_1</a>
 - <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_2.xlsx">HR_2</a>
 
-📁 Contents:
+# 📁 Contents:
 Excel Workbooks: Power Pivot and Power Query models for HR KPIs, trend analysis, and dashboard creation.
 
 Power BI Reports: Interactive dashboards presenting metrics such as employee attrition, department-wise performance, and gender distribution.
@@ -25,7 +25,7 @@ Tableau Visualizations: Dynamic charts and dashboards for HR demographics and at
 
 SQL Scripts: Queries used for data extraction, transformation, and summarization for HR-related KPIs.
 
-📌 Key Highlights:
+#📌 Key Highlights:
 Created dynamic dashboards for decision-making support.
 
 Used DAX and calculated fields to derive performance metrics.
@@ -34,7 +34,7 @@ Conducted exploratory data analysis on employee attributes.
 
 Designed visuals for storytelling and executive reporting.
 
-🛠 Tools Used:
+# 🛠 Tools Used:
 Microsoft Excel (Power Pivot, Power Query)
 Power BI
 Tableau
