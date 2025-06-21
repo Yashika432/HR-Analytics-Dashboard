@@ -25,7 +25,7 @@ Tableau Visualizations: Dynamic charts and dashboards for HR demographics and at
 
 SQL Scripts: Queries used for data extraction, transformation, and summarization for HR-related KPIs.
 
-#📌 Key Highlights:
+# 📌 Key Highlights:
 Created dynamic dashboards for decision-making support.
 
 Used DAX and calculated fields to derive performance metrics.
