@@ -46,3 +46,4 @@ MySQL
 
 ![image](https://github.com/user-attachments/assets/7b6af71d-290d-43d1-90b7-b583c25c84f5)
 
+![image](https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Tableau.png)
