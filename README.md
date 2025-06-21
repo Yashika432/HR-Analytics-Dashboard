@@ -1,6 +1,6 @@
 # 🚀 HR-Analytics-Dashboard 
 
-This project is part of my internship as a Data Analyst, where I created an interactive HR analytics dashboard using Power BI.
+This project is part of my internship as a Data Analyst, where I created an interactive HR analytics dashboard using Excel, Power BI, Tableau, SQL.
 
 # 📊 Overview:
 This project features an interactive dashboard built to explore and visualize key HR metrics, including employee attrition trends, department-wise performance, compensation breakdowns, and work-life balance insights.
@@ -16,19 +16,30 @@ The dashboard empowers HR teams to:
 - <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_1.xlsx">HR_1</a>
 - <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR_2.xlsx">HR_2</a>
 
-# 🔦 Dashboard Highlights:
+📁 Contents:
+Excel Workbooks: Power Pivot and Power Query models for HR KPIs, trend analysis, and dashboard creation.
 
-- Attrition rate by department and job role
-- Gender and compensation comparisons
-- Work-life balance distribution
-- Promotion timelines vs attrition correlation
+Power BI Reports: Interactive dashboards presenting metrics such as employee attrition, department-wise performance, and gender distribution.
 
-# ⚙️ Process
+Tableau Visualizations: Dynamic charts and dashboards for HR demographics and attrition rate comparisons.
 
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean, with respect to data type, data format and values used.
-- Created pivot table according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+SQL Scripts: Queries used for data extraction, transformation, and summarization for HR-related KPIs.
+
+📌 Key Highlights:
+Created dynamic dashboards for decision-making support.
+
+Used DAX and calculated fields to derive performance metrics.
+
+Conducted exploratory data analysis on employee attributes.
+
+Designed visuals for storytelling and executive reporting.
+
+🛠 Tools Used:
+Microsoft Excel (Power Pivot, Power Query)
+Power BI
+Tableau
+MySQL
+
 
 # 👀 Dashboard interaction 
 <a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/MY%20HR%20ANALYTICS%20pic.png">Screenshot</a>
