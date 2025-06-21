@@ -42,8 +42,12 @@ MySQL
 
 
 # 👀 Dashboard interaction 
-<a href="https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/MY%20HR%20ANALYTICS%20pic.png">Screenshot</a>
 
+Power Bi Dashboard
 ![image](https://github.com/user-attachments/assets/7b6af71d-290d-43d1-90b7-b583c25c84f5)
 
+Tableau Dashboard
 ![image](https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Tableau.png)
+
+Excel Dashboard
+![image](https://github.com/Yashika432/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Excel.png)
